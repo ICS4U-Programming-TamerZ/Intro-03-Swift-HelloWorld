@@ -16,4 +16,5 @@
 
 // Outputs Hello World to Console.
 
-print("Hello, World!")
+print("Hello, Chris!")
+print("How are you doing?")
